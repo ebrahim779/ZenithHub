@@ -1,4 +1,3 @@
--- Main.lua
 local repo = "https://raw.githubusercontent.com/ebrahim779/ZenithHub/main/"
 
 local function LoadModule(path)
