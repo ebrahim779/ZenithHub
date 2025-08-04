@@ -1,5 +1,5 @@
 -- Main.lua
-local repo = "https://raw.githubusercontent.com/ibrahim779/ZenithHub/main/"
+local repo = "https://raw.githubusercontent.com/ebrahim779/ZenithHub/main/"
 
 local function LoadModule(path)
     local success, result = pcall(function()
